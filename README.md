@@ -8,3 +8,4 @@ Lear how to play the piano and create your own music using just a keyboard and y
 # [Documentation](https://github.com/RaduPelin/Magic-Piano/blob/master/Documentation.pdf)    
 # [DEMO](https://www.youtube.com/watch?v=q-6hSwUoyGs)
   
+  #HTML, #CSS,  #JS
